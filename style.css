@@ -79,7 +79,7 @@ body{
     margin-bottom: 0.1em; ;
 }
 
-,.descricao__texto {
+.descricao__texto {
     color: var(--cinza-secundario);
 }
 
